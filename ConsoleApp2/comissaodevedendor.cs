@@ -16,7 +16,7 @@ namespace ConsoleApp2
         
         public comissaodevedendor(int i,int c,int q,double p)
         {
-            id= i;
+            
             codigopeça= c;
             quantidadevendida= q;
             precoproduto= p;
